@@ -1,1 +1,3 @@
-# minestaz
+# Minestaz
+
+(Info coming soon!)
