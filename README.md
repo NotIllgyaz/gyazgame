@@ -1,3 +1,0 @@
-# Minestaz
-
-(Info coming soon!)
